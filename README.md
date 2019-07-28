@@ -7,3 +7,5 @@
 * `camenisch-lysyanskaya-signatures.ipynb` - Notes on CL signatures and zero knowledge proofs.
 
 * `p-256.ipynb` - A small snippet for working with P-256 curves in Sage.
+
+* `ecdsa-is-weird.ipynb` - Demonstrates unexpected properties of ECDSA signatures.
