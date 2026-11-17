@@ -27,3 +27,5 @@
 * `(EC)DSA Q&A.ipynb` - Questions and answers about DSA, ElGamal, and the two moduli in (EC)DSA.
 
 * `AES, from Scratch.ipynb` - An AES-128 implementation following FIPS 197. Unfinished: `aes128` does not yet pass the test vector.
+
+* `authdict.ipynb` - Notes and an implementation of Goodrich and Tamassia's authenticated dictionaries with skip lists and commutative hashing. Uses the skip list in `kelbz/skiplist.py`.
